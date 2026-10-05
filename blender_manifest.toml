@@ -7,9 +7,10 @@ tagline = "Smart edge/face measurement, dimensions, scale fix and clipboard"
 maintainer = "Otonkart"
 type = "add-on"
 
-website = "https://www.instagram.com/otonkart/"
+website = "https://github.com/otonkart/tmeasure"
+support = "https://github.com/otonkart/tmeasure/issues"
 
 blender_version_min = "4.2.0"
 
 license = ["SPDX:GPL-3.0-or-later"]
-tags = ["Mesh", "Modeling", "3D View"]
+tags = ["Mesh"]
